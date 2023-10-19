@@ -1,0 +1,1 @@
+apenas um teste de responsivide de telas usando "@media screen"
